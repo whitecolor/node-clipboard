@@ -12,6 +12,6 @@
     "node": ">=0.6"
   },
   "dependencies": {
-    "node-ffi": "0.5"
+    "ffi": "^1.2.0"
   }
 }
